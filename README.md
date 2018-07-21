@@ -7,7 +7,7 @@
 - LinkgearWallet is a client-side tool for easily & securely interacting with the Linkgear network. As one of the leading providers of Linkgear services, LinkgearWallet equips users with an easy-to-understand and accessible suite of tools for their needs.
 - It was created and is maintained at https://github.com/linkcryptocoin.
 
-#### Features
+### Features
 
 - Create new wallets completely client side.
 - Access your wallet via unencrypted private key, encrypted private key, keystore files, mnemonics, or Digital Bitbox, Ledger Nano S or TREZOR hardware wallet.
@@ -34,15 +34,15 @@
  - **Private**: No tracking!!! No emails. No ads. No demographics. We don't even know how many wallets have been generated, let alone who / what / where you are.
  - **Open source & audit-able**
 
-**Page Files**
+### Page Files
     * `index.html` is for LinkgearWallet.com.
     * `helpers.html` is for https://www.linkgearwallet.com/helpers.html.
     * `embedded.html` is for https://www.linkgearwallet.com/embedded.html.
 
-** Go Live to Web
-1. Go to web [root] folder 
-2  Clone https://github.com/linkcryptocoin/linkgearwallet.git.
-2. Start the web service(e.g. sudo service apaches2 start/restart).
+### Go Live to Web
+  - Go to web [root] folder 
+  - Clone https://github.com/linkcryptocoin/linkgearwallet.git.
+  - Start the web service(e.g. sudo service apaches2 start/restart).
 
 
-Copyrights @Linkgear Fundation, April 2018 
+Copyrights @LinkGear Fundation, April 2018 
